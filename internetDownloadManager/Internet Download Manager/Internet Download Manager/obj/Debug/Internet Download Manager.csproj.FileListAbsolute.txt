@@ -1,0 +1,14 @@
+E:\internetDownloadManager\Internet Download Manager\Internet Download Manager\bin\Debug\Internet Download Manager.exe.config
+E:\internetDownloadManager\Internet Download Manager\Internet Download Manager\bin\Debug\Internet Download Manager.exe
+E:\internetDownloadManager\Internet Download Manager\Internet Download Manager\bin\Debug\Internet Download Manager.pdb
+E:\internetDownloadManager\Internet Download Manager\Internet Download Manager\obj\Debug\Internet Download Manager.csproj.AssemblyReference.cache
+E:\internetDownloadManager\Internet Download Manager\Internet Download Manager\obj\Debug\Internet Download Manager.csproj.SuggestedBindingRedirects.cache
+E:\internetDownloadManager\Internet Download Manager\Internet Download Manager\obj\Debug\Internet_Download_Manager.AddUrl.resources
+E:\internetDownloadManager\Internet Download Manager\Internet Download Manager\obj\Debug\Internet_Download_Manager.Download.resources
+E:\internetDownloadManager\Internet Download Manager\Internet Download Manager\obj\Debug\Internet_Download_Manager.Main.resources
+E:\internetDownloadManager\Internet Download Manager\Internet Download Manager\obj\Debug\Internet_Download_Manager.Properties.Resources.resources
+E:\internetDownloadManager\Internet Download Manager\Internet Download Manager\obj\Debug\Internet_Download_Manager.Setting.resources
+E:\internetDownloadManager\Internet Download Manager\Internet Download Manager\obj\Debug\Internet Download Manager.csproj.GenerateResource.cache
+E:\internetDownloadManager\Internet Download Manager\Internet Download Manager\obj\Debug\Internet Download Manager.csproj.CoreCompileInputs.cache
+E:\internetDownloadManager\Internet Download Manager\Internet Download Manager\obj\Debug\Internet Download Manager.exe
+E:\internetDownloadManager\Internet Download Manager\Internet Download Manager\obj\Debug\Internet Download Manager.pdb
